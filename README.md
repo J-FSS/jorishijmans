@@ -1,4 +1,4 @@
-# jorishijmans
+# Joris Hijmans
      
 - Learning about Git and GitHub [some stats](https://github.com/jstrieb/github-stats.git)
 
